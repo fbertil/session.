@@ -1,4 +1,4 @@
-# session
+# session.
 Music Organization App
 "session." is a mobile-first productivity app built for music artists and producers to stay organized while working on in-progress tracks. Designed from firsthand experience as an independent artist with over 15 million streams and a peak of 267,000 monthly Spotify listeners, Session addresses a common problem in the music creation process: scattered notes, forgotten mix ideas, and disorganized project versions.
 
